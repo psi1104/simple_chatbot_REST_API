@@ -15,6 +15,6 @@ docker run -d -p 5000:5000 psi1104/psi-chatbot:1
 127.0.0.1:5000/chatbot?sentece=<문장>
 
 문장 :  Hello, 
-		What is your name?, 
-		Where are you located
+	What is your name?, 
+	Where are you located
 ```
