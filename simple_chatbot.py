@@ -7,7 +7,7 @@ def chatbot(sentence):
     elif sentence == "What is your name?":
         reply = "My name is chatbot!"
 
-    elif sentence == "Where are you located":
+    elif sentence == "Where are you located?":
         reply = "I located seoul!"
 
     else:
